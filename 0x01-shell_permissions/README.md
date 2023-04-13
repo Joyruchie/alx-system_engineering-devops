@@ -1,2 +1,2 @@
-[master 92091fc] task2
- 1 file changed, 3 insertions(+), 3 deletions(-)
+[master aa627ef] task2
+ 1 file changed, 2 insertions(+), 3 deletions(-)
