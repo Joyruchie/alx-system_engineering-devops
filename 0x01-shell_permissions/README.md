@@ -1,2 +1,3 @@
-[master 2fdda6f] task2
- 2 files changed, 2 insertions(+), 3 deletions(-)
+[master f520d22] task3
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+ create mode 100755 0x01-shell_permissions/3-new_owner
