@@ -1,3 +1,3 @@
-[master 9676217] task15
- 2 files changed, 4 insertions(+), 2 deletions(-)
- create mode 100755 0x00-shell_basics/100-lets_move
+[master a6e2ccb] task16
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+ create mode 100755 0x00-shell_basics/101-clean_emacs
