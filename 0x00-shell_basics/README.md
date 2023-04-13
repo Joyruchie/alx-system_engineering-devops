@@ -1,10 +1,2 @@
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   103-commas
-	modified:   README.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[master 92ed4a4] task20
+ 2 files changed, 11 insertions(+), 4 deletions(-)
