@@ -1,3 +1,2 @@
-[master f0f1060] task3
- 2 files changed, 6 insertions(+), 4 deletions(-)
- create mode 100755 0x01-shell_permissions/2-groups
+[master 92091fc] task2
+ 1 file changed, 3 insertions(+), 3 deletions(-)
