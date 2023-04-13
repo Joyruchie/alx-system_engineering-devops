@@ -1,4 +1,3 @@
-[master 33b7f8f] task1
- 2 files changed, 3 insertions(+)
- create mode 100755 0x01-shell_permissions/0-iam_betty
- create mode 100644 0x01-shell_permissions/README.md
+[master 13f2a39] task2
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+ create mode 100755 0x01-shell_permissions/1-who_am_i
