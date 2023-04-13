@@ -1,3 +1,3 @@
-[master ffbdf9f] task21
- 2 files changed, 2 insertions(+), 10 deletions(-)
- create mode 100644 0x00-shell_basics/school.mgc
+[master 2ac6138] task21
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+ rewrite 0x00-shell_basics/school.mgc (100%)
