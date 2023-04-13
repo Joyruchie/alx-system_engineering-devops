@@ -1,2 +1,2 @@
-[master a01a412] task8
- 2 files changed, 4 insertions(+), 3 deletions(-)
+[master e18dffe] task8
+ 2 files changed, 2 insertions(+), 3 deletions(-)
