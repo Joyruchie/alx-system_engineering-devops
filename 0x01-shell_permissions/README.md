@@ -1,2 +1,3 @@
-[master 47318a7] task6
- 1 file changed, 2 insertions(+), 2 deletions(-)
+[master dbd5f1a] task7
+ 2 files changed, 4 insertions(+), 3 deletions(-)
+ create mode 100755 0x01-shell_permissions/7-everybody
