@@ -1,3 +1,2 @@
-[master c1d6db9] task8
- 2 files changed, 5 insertions(+), 2 deletions(-)
- create mode 100755 0x01-shell_permissions/8-james_bond
+[master f1c27a8] task8
+ 1 file changed, 3 insertions(+), 3 deletions(-)
