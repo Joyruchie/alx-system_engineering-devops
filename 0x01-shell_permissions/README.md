@@ -1,3 +1,3 @@
-[master c830486] task13
- 2 files changed, 6 insertions(+), 2 deletions(-)
- create mode 100755 0x01-shell_permissions/13-change_group
+[master 8cc2cfa] task14
+ 2 files changed, 5 insertions(+), 4 deletions(-)
+ create mode 100755 0x01-shell_permissions/100-change_owner_and_group
