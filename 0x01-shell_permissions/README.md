@@ -1,3 +1,2 @@
-[master 7abef3e] task10
- 2 files changed, 5 insertions(+), 3 deletions(-)
- create mode 100755 0x01-shell_permissions/10-mirror_permissions
+[master 6bf1b52] task10
+ 2 files changed, 4 insertions(+), 4 deletions(-)
